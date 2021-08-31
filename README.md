@@ -1,3 +1,4 @@
 # UnityFinal
 Final for Unity
-This is the culmination of mine and matthews work this semester. We have been using UNITY collaborate which is why this is only one update instead of multiple. 
+This is the culmination of mine and Matthew Sailings work this semester Spring 2021. 
+Survival based shooter game in which you must survive infinite waves of enemies trying to kill you.
